@@ -1,0 +1,5 @@
+[
+  { "title": "Sách 1", "author": "Tác giả 1", "price": 100, "stock": 10 },
+  { "title": "Sách 2", "author": "Tác giả 2", "price": 200, "stock": 5 },
+  { "title": "Sách 3", "author": "Tác giả 3", "price": 150, "stock": 8 }
+]
